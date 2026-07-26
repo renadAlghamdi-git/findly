@@ -11,4 +11,4 @@ Findly helps university students report lost and found items and discover possib
 - Report lost items
 - Report found items
 - Search and filter reports
-- Discover possible matches
+- Discover smart item matches
